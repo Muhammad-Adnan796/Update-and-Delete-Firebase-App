@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596391890814",
+    "project_id": "update-delete-app",
+    "storage_bucket": "update-delete-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596391890814:android:ccaeba9849d0c4f3262d2f",
+        "android_client_info": {
+          "package_name": "com.example.update_delete_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596391890814-ln5ejd46rmo5asqomcue5u0qisrnccn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEvmfdZNFtNnIhzefvWUqgCi4DfzNjdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596391890814-ln5ejd46rmo5asqomcue5u0qisrnccn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
